@@ -55,23 +55,42 @@ Alt + Shift + ↓
 
 ### Moving blocks of code
 ```
+CMD + Shift + ↑
+CMD + Shift + ↓
 ```
+![Moving blocks](gifs/moving-blocks.gif)
+
 ### Line duplication
 ```
+CMD + D
 ```
+![Duplicate line](gifs/duplicate-line.gif)
 
 ## Navigating the Codebase:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eleifend elit et ex.
+As engineers we spend more time reading code than writing it. Because of this, it's important that we know how to search our codebases to find files, code usages, patterns, and etc.
 
 ### Finding files
 ```
+Shift + Shift (Tap the Shift twice)
 ```
+![Search All](gifs/search-all.gif)
+
 ### Finding classes
 ```
+CMD + O
 ```
+You should also know that IntelliJ will find multinamed
+classes by searching for their acronym. 
+
+E.g. Searching for "ST" will find "StringToken", "StreamTuple", etc.
+![Search Class](gifs/search-class.gif)
+
 ### Find in path/files
 ```
+Right-click on the package > "Find in Files" 
 ```
+![Find in Files](gifs/find-in-files.gif)
+
 ### Find usages
 ```
 ```
