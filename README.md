@@ -1,6 +1,5 @@
 # IntelliJ Tips and Tricks
-Talk about the motivation. Time is important and 
-we want to spend less time doing menial tasks. Mention Matt motivation.
+Hi there, this cheatsheet consists of my most used features in IntelliJ which saves me time during my development hours. I want to share it with the community with the intent that it will maximize your time as well. 
 
 ## Key Mappings:
 An effective way to minimize your coding time to touch your mouse as infrequently as possible. Learning keyboard shortcuts accomplishes this.
